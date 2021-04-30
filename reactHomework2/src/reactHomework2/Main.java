@@ -8,7 +8,7 @@ public class Main {
 		
 		System.out.println("Deneme yapiyoruz");
 		
-		
+	System.out.println("Kendi kendimize ogreniyoruz.");
 	}
 
 }
