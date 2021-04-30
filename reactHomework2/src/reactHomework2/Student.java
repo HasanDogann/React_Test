@@ -7,6 +7,8 @@ public class Student {
 	
 	public Student(String name,String surname) {
 		
+		
+		
 	}
 	
 }
